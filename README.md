@@ -83,7 +83,7 @@ flowchart LR
 
 ## How it was built
 
-FoodFlow is a product of Silaris Systems, my own software venture. I defined the requirements and priorities, researched the integrations, directed implementation using AI-assisted development (Codex, Claude Code) and manually tested and refined the implemented workflows in the application.
+FoodFlow is a product of Silaris Systems, my own software venture. I defined the requirements and priorities, researched the integrations, directed the AI-assisted implementation and manually tested and refined the implemented workflows in the application.
 
 ## Screenshots
 
